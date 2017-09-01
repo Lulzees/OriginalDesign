@@ -26,7 +26,7 @@ void face()
   else if (n==1)
   {
     //happy
-    arc(x, y, .7*a, .7*b, 0, PI, PIE);
+    arc(x, y, .7*a, .7*b, 0, PI);
   }
   else if (n==2)
   {
